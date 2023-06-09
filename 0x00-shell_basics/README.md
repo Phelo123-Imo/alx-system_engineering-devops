@@ -1,1 +1,1 @@
-current directory, long format, user and group IDs displayed numerically, hidden files
+task 6. Welcome
